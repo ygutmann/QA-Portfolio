@@ -27,3 +27,14 @@ focusing on the shopping bag functionality for a new user session.
 - Add API-based cart reset
 - Add mobile viewport coverage
 - Move configuration to environment variables
+
+## How to Run Locally
+
+1. Create and activate a virtual environment
+2. Install dependencies:
+   `pip install -r requirements.txt`
+3. Install Playwright browsers:
+   `playwright install`
+4. Run tests:
+   `pytest -q`
+
