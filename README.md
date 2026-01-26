@@ -22,4 +22,39 @@ End-to-end UI automation project for the Wolt website, focusing on real-world us
 - Covers address search flows and invalid input handling
 - Designed as a maintainable and scalable automation project
 
-🔗 Repository: https
+🔗 Repository: https://github.com/ygutmann/pom_project_wolt
+
+---
+
+## 📂 Repository Structure
+
+### 🧪 Manual Testing
+Test plans, test cases, and test reports
+
+### 🧠 Test Design
+Decision tables, boundary value analysis, equivalence partitioning
+
+### 🤖 Automation
+Basic and intermediate automation projects using Playwright + Pytest
+
+### 🔌 API Testing
+API test examples and collections
+
+Each folder contains a short README explaining the testing approach.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Manual Testing
+- Playwright
+- Pytest
+- Postman
+- SQL
+- Git & GitHub
+
+---
+
+## 📝 Notes
+
+This portfolio is continuously updated as I progress and learn.
