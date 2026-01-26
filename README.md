@@ -1,40 +1,25 @@
 # QA Portfolio – Yehuda Gutmann
 
 This repository serves as my QA portfolio and showcases my skills in:
+
 - Manual testing
 - Test design techniques
-- Basic test automation
+- Test automation
 - API testing fundamentals
 
-The goal of this portfolio is to demonstrate my testing mindset,
-structured thinking, and ability to design effective and meaningful test scenarios.
+The goal of this portfolio is to demonstrate my testing mindset, structured thinking, and ability to design effective and meaningful test scenarios.
 
 ---
 
-## Repository Structure
+## ⭐ Featured Automation Project
 
-- **Manual testing**
-  - Test plans, test cases, and test reports
-- **Test design**
-  - Decision tables, boundary value analysis, equivalence partitioning
-- **Automation**
-  - Basic automation projects using Playwright + Pytest
-- **API testing**
-  - API test examples and collections
+### 🔹 Wolt Automation Project (Playwright + Python)
 
-Each folder contains a short README explaining the testing approach.
+End-to-end UI automation project for the Wolt website, focusing on real-world user flows and negative scenarios.
 
----
+- Built using **Playwright**, **Python**, and **Pytest**
+- Implements **Page Object Model (POM)**
+- Covers address search flows and invalid input handling
+- Designed as a maintainable and scalable automation project
 
-## Tools & Technologies
-- Manual Testing
-- Playwright
-- Pytest
-- Postman
-- SQL
-- Git & GitHub
-
----
-
-## Notes
-This portfolio is continuously updated as I progress and learn.
+🔗 Repository: https
