@@ -17,12 +17,14 @@ The goal of this portfolio is to demonstrate my testing mindset, structured thin
 
 End-to-end UI automation project for the Wolt website, focusing on real-world user flows and negative scenarios.
 
+**Key highlights:**
 - Built using **Playwright**, **Python**, and **Pytest**
-- Implements **Page Object Model (POM)**
+- Implements **Page Object Model (POM)** for clean and maintainable architecture
 - Covers address search flows and invalid input handling
-- Designed as a maintainable and scalable automation project
+- Designed with scalability, readability, and stability in mind
 
-🔗 Repository: https://github.com/ygutmann/pom_project_wolt
+📁 Case Study: `automation/projects/wolt-automation`  
+🔗 Full Source Code: https://github.com/ygutmann/pom_project_wolt
 
 ---
 
@@ -35,7 +37,7 @@ Test plans, test cases, and test reports
 Decision tables, boundary value analysis, equivalence partitioning
 
 ### 🤖 Automation
-Basic and intermediate automation projects using Playwright + Pytest
+Practice exercises and full automation projects using Playwright + Pytest
 
 ### 🔌 API Testing
 API test examples and collections
