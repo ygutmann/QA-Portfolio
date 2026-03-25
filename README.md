@@ -1,8 +1,8 @@
 # QA Portfolio – Yehuda Gutmann
 
-This repository serves as a central hub for my QA work, showcasing hands-on experience in manual testing, test design, automation, and system-level validation.
+This repository serves as a central hub for my QA work, focusing on real-world testing scenarios, system behavior, and automation.
 
-The focus of this portfolio is not only on tools, but on **testing mindset, real-world scenarios, and structured thinking**.
+I specialize in analyzing complex flows, identifying edge cases, and building practical testing solutions — from UI automation to system-level validation.
 
 ---
 
