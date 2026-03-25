@@ -8,6 +8,22 @@ The focus of this portfolio is not only on tools, but on **testing mindset, real
 
 ## ⭐ Featured Projects
 
+
+### 🟡 QA Job Watchdog (Automation Tool)
+
+An automated system that scans company career pages to detect new QA job openings and sends alerts.
+
+Key highlights:
+- Built with Playwright and Python  
+- Automatically navigates dynamic websites and identifies relevant job postings  
+- Uses keyword detection and filtering logic for QA roles  
+- Implements deduplication using hashing (SHA-256)  
+- Sends email alerts via Gmail API  
+- Designed to run daily (CI/CD or scheduled task)  
+
+🔗 Full Source Code: https://github.com/ygutmann/QA_Job_Hunt  
+
+
 ### 🟢 End-to-End Automation Project (Wolt)
 
 End-to-end UI automation project for the Wolt platform, focusing on real user flows and edge cases.
@@ -20,6 +36,7 @@ Key highlights:
 
 🔗 Full Source Code: https://github.com/ygutmann/pom_project_wolt  
 
+
 ### 🟢 System-Level QA Project (TCP Client-Server)
 
 A full system testing project involving communication between a Node.js server and a Unity client.
@@ -31,6 +48,7 @@ Key highlights:
 - Includes logging and end-to-end interaction testing  
 
 🔗 Full Source Code: https://github.com/ygutmann/anzu-home-assignment  
+
 ---
 
 ## 📂 Repository Structure
